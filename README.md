@@ -19,7 +19,7 @@ Completed Lottery project exercise from Udemy course [Ethereum and Solidity: The
 
 ### Deploy
 
-To deploy the Inbox contract to the Rinkeby testnet:
+To deploy the Lottery contract to the Rinkeby testnet:
 1. Create a `.env` file in the project root.
 2. Add entries for MNEMONIC and PROVIDER_URL. e.g. 
 ```
